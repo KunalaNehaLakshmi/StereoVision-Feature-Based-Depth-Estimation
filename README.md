@@ -89,10 +89,10 @@ The pipeline was evaluated across three different ROI selections using the same 
 | :---: | :---: |
 | ![Experiment 2 Matches](results(complete_fan)/feature_matches.jpg) | ![Experiment 2 Disparity](results(complete_fan)/disparity_graph.png) |
 
-### Experiment 3: Complete Image with Background (`results(complete image)/`)
+### Experiment 3: Complete Image with Background (`results(complete_image)/`)
 | Feature Matches | Disparity Distribution |
 | :---: | :---: |
-| ![Experiment 3 Matches](results(complete image)/feature_matches.jpg) | ![Experiment 3 Disparity](results(complete image)/disparity_graph.png) |
+| ![Experiment 3 Matches](results(complete_image)/feature_matches.jpg) | ![Experiment 3 Disparity](results(complete_image)/disparity_graph.png) |
 
 ---
 
