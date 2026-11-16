@@ -1,0 +1,43 @@
+
+STEREO VISION - LAB EVALUATION
+
+Camera: iQOO Z10R 5G
+Resolution: 4096 x 1844
+
+EXPERIMENT PARAMETERS
+---------------------
+Baseline: 20.0 cm
+Reference Distance: 100.0 cm
+Equivalent Focal Length: 26.0 mm
+Approximate Focal Length: 2699.32 pixels
+
+FEATURE MATCHING
+----------------
+RANSAC Inliers: 68
+Valid Fan Matches: 65
+
+DISPARITY
+---------
+Median Horizontal Disparity: 566.22 pixels
+Median Residual Vertical Error: 2.96 pixels
+
+DEPTH ESTIMATION
+----------------
+Estimated Depth: 95.35 cm
+Reference Distance: 100.00 cm
+Absolute Error: 4.65 cm
+Percentage Error: 4.65 %
+
+METHOD
+------
+SIFT Feature Detection
+Brute Force Matching
+RANSAC Outlier Removal
+Fan ROI Filtering
+Sparse Disparity Calculation
+Depth Estimation: Z = fB/d
+
+NOTE
+----
+Approximate sparse depth estimation.
+Camera calibration has not been performed.
